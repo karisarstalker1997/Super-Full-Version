@@ -238,4 +238,4 @@ This repository serves as the official landing page for **Super**. The software 
 **Get the most recent version of Super today!**
 
 ---
-**Last updated:** 2026-09-20 18:36:16 UTC
+**Last updated:** 2026-09-20 21:21:08 UTC
